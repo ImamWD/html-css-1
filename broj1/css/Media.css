@@ -1,0 +1,33 @@
+@media (max-width: 575px) {
+    .boot
+    {
+        width: 100%;
+        display: block;
+        height: 20px;
+        margin-bottom: 10px;
+    }
+    .chooses
+    {
+        width: 100%;
+        float: left;
+        height: 20px;
+        text-align: center;
+        margin: 0px;
+        padding: 0px;
+    }
+    .navbar
+    {
+       height: 20%;
+    }
+    .item_of_list
+    {
+        float: left;
+        width: 25%;
+        padding: 0px;
+        margin: 0px;
+    }
+    .container1
+    {
+        width: 100%;
+    }
+}
